@@ -1,13 +1,10 @@
 package sg.edu.nus.iss.vttp5_ssf_day12workshop.controller;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
 import java.util.Random;
 import java.util.Set;
-import java.util.random.RandomGenerator;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -16,7 +13,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 
 
 
